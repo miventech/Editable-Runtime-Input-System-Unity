@@ -142,7 +142,13 @@ code.
     }
  }
  ```
+ ## Edit the KeyMap
  
++ SetKeyMap (```string``` keyMap, ```KeyCode``` Newkey)
+
+ With this function we can assign a new key to any KeyMap that is in the list during the execution of the code.
+  
+  
 # [es-ve]
 
 Runtime Input System (RIS) es un codigo para unity que te permite editar durante el tiempo de ejecucion un grupo de "inputs" que
@@ -267,6 +273,14 @@ igual que el sistema de "Input" de unity. de echo la implementacion es lo mas pa
     }
  }
  ```
+ 
+ ## Editar los KeyMap
+ 
++ SetKeyMap( ```string```  keyMap , ```KeyCode```  Newkey )
+
+ Con esta funcion podemos asignar una nueva tecla a cualquier KeyMap que este en la lista durante la ejecucion del codigo.
+
+ 
  
  
 
