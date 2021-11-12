@@ -1,7 +1,14 @@
 # Editable Runtime Input System Unity
 RuntimeInputSystem is a simple code which enables to modify keys corresponding to a specific input at runtime.
 
+https://github.com/miventech/Editable-Runtime-Input-System-Unity/releases/tag/RuntimeInputSystem
 By Jose Jaspe [JaspeCode] [Miventech]
+
+
+
+# Download
++ [Release](github.com/miventech/Editable-Runtime-Input-System-Unity/releases/tag/RuntimeInputSystem
+)
 
 
 # [Donaciones] [Donations]
@@ -262,6 +269,10 @@ igual que el sistema de "Input" de unity. de echo la implementacion es lo mas pa
  ```
  
  
+
+# Download
++ [Release](github.com/miventech/Editable-Runtime-Input-System-Unity/releases/tag/RuntimeInputSystem
+)
 
 
 # [Donaciones] [Donations]
